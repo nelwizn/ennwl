@@ -1,9 +1,9 @@
 EHLO test.com
-MAIL FROM: test@test.com
-RCPT TO: b3021652@trbvm.com
+MAIL FROM: testuser@test.com
+RCPT TO: vkqwg+bnt8wdjnem88@sharklasers.com
 DATA
 From: test@test.com
-To: b3021652@trbvm.com
+To: vkqwg+bnt8wdjnem88@sharklasers.com
 Subject: Test
 
 This is a test message
