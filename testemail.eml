@@ -1,0 +1,12 @@
+EHLO test.com
+MAIL FROM: test@test.com
+RCPT TO: b3021652@trbvm.com
+DATA
+From: test@test.com
+To: b3021652@trbvm.com
+Subject: Test
+
+This is a test message
+.
+QUIT
+
