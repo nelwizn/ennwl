@@ -1,12 +1,6 @@
-EHLO test.com
-MAIL FROM: testuser@test.com
-RCPT TO: vwoncx@6paq.com
-DATA
-From: test@test.com
-To: vwoncx@6paq.com
+From: test123@test.com
+To: vkqwg+bnt8wdjnem88@sharklasers.com
 Subject: Test
 
 This is a test message
-.
-QUIT
 
