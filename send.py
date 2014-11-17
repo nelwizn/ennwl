@@ -10,7 +10,7 @@ FILE = sys.argv[1]
 
 # Get message
 f = open(FILE, "r")
-data = r.read()
+data = f.read()
 f.close()
 
 # Send
